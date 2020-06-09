@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.166,D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Application.pas=D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Unit1.pas=D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Application.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Unit1.pas=D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\App.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.044,D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Project1.dproj=D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\LinearLaplasianFilter.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Unit1.dfm=D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\App.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Unit1.dfm=D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Application.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Application.dfm=D:\MISC\INSTITUTE\5 SEMESTR\Сдано\КГ\! LABS\lab 4 my\lab 4\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
